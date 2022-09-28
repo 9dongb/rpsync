@@ -10,4 +10,4 @@ name = input()
 print(name, '님 반가워요.')
 
 h = int(input('시간을 적으십시오'))
-print(h,'시간은', h*60,분입니다.)
+print(h,'시간은', h*60,"분입니다.")
